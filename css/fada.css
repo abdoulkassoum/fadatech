@@ -1,0 +1,7 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.one{
+   background: url(css/02.jpg)center/cover no-repeat fixed;
+}
